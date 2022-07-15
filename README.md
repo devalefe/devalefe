@@ -4,7 +4,7 @@
 
 ### **Sobre mim**
 
-- 💻 Desenvolvedor Fullstack
+- 💻 Desenvolvedor Font-end
 
 - 💼 Freelancer atualmente
 

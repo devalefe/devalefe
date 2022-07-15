@@ -1,8 +1,8 @@
-### Olá, me chamo Álefe!
+# Olá, me chamo Álefe!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=devalefe&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Status GitHub de Álefe" />
 
-**Sobre mim**
+### **Sobre mim**
 
 - 💻 Desenvolvedor Fullstack
 
@@ -10,7 +10,7 @@
 
 - ❤️ Apaixonado por tecnologia
 
-**Tecnologia que conheço**
+### **Tecnologia que uso**
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>

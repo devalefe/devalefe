@@ -4,7 +4,7 @@
 
 ## **Sobre mim**
 
-- 💻 Desenvolvedor Web
+- 💻 Desenvolvedor Full Stack
 
 - 💼 Freelancer atualmente
 

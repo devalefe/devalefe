@@ -1,6 +1,6 @@
 # Olá, me chamo Álefe!
 
-<img align="center" width="100%" src="https://github-readme-stats-vercel-o90fkgknz-devalefe.vercel.app/api?username=devalefe&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Status GitHub de Álefe" />
+<img align="center" width="100%" src="https://github-readme-stats-vercel-26n4wrzbe-devalefe.vercel.app/api?username=devalefe&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Status GitHub de Álefe" />
 
 ## **Sobre mim**
 

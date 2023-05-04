@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/devalefe/github-readme-stats-vercel">
-<img width="46%" align="center" src="https://github-readme-stats-vercel-26n4wrzbe-devalefe.vercel.app/api/top-langs/?username=devalefe&show_icons=true&theme=dracula&layout=compact&hide_border=true&locale=pt-br" alt="Liguagens mais usadas por Álefe" />
+<img width="45.5%" align="center" src="https://github-readme-stats-vercel-26n4wrzbe-devalefe.vercel.app/api/top-langs/?username=devalefe&show_icons=true&theme=dracula&layout=compact&hide_border=true&locale=pt-br" alt="Liguagens mais usadas por Álefe" />
 </a>
 
 ## **Sobre mim**

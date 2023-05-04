@@ -1,4 +1,4 @@
-# Olá, me chamo Álefe!
+<img width="80%" margin="auto" src="assets/hi.png" alt="Olá, me chamo Álefe!" />
 
 <a href="https://github.com/devalefe/github-readme-stats-vercel">
 <img width="54.2%" align="center" src="https://github-readme-stats-vercel-26n4wrzbe-devalefe.vercel.app/api?username=devalefe&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&locale=pt-br" alt="Status GitHub de Álefe" />

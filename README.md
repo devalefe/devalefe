@@ -10,16 +10,26 @@
 
 ## **Sobre mim**
 
-- 💻 Desenvolvedor Full Stack
+- 💼 Desenvolvedor Full Stack Full-Time @Infortel
 
-- 💼 Freelancer atualmente
+- 💻 Aprofundando o conhecimento em Javascript & Python
 
-- ❤️ Apaixonado por tecnologia
+- ❤️ Apaixonado por tecnologia, em especial Desenvolvimento Web
 
 ## **Tecnologias conhecidas**
 
-<code title="Javascript"><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code title="Typescript"><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code title="ReactJS"><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code title="NodeJS"><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code title="Python"><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
+<code title="Javascript">
+  <img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+</code>
+<code title="Typescript">
+  <img height="20" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+</code>
+<code title="ReactJS">
+  <img height="20" alt="React JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+</code>
+<code title="NodeJS">
+  <img height="20" alt="Node JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+</code>
+<code title="Python">
+  <img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png">
+</code>

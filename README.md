@@ -10,9 +10,11 @@
 
 ## **Um pouco sobre mim**
 
-- 💼 Desenvolvedor Full Stack Full-Time @Infortel
+- 💼 Desenvolvedor Full Stack @Infortel
 
-- 💻 Aprofundando o conhecimento em Javascript & Python
+- 🎯 Foco e determinação, é o que me descreve
+
+- 🧠 Aprofundando meus conhecimentos em Javascript & Python
 
 - ❤️ Apaixonado por tecnologia, em especial Desenvolvimento Web
 

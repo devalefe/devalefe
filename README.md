@@ -1,4 +1,6 @@
-<img width="80%" margin="auto" src="assets/hi.png" alt="Olá, me chamo Álefe!" />
+<p align="center" style="margin-bottom: 0px !important;">
+<img width="70%" src="assets/hi.png" alt="Olá, me chamo Álefe!" />
+</p>
 
 <a href="https://github.com/devalefe/github-readme-stats-vercel">
 <img width="54.2%" align="center" src="https://github-readme-stats-vercel-26n4wrzbe-devalefe.vercel.app/api?username=devalefe&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&locale=pt-br" alt="Status GitHub de Álefe" />

@@ -1,7 +1,7 @@
 # Olá, me chamo Álefe!
 
 <a href="https://github.com/devalefe/github-readme-stats-vercel">
-<img width="50%" align="center" src="https://github-readme-stats-vercel-26n4wrzbe-devalefe.vercel.app/api?username=devalefe&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&locale=pt-br" alt="Status GitHub de Álefe" />
+<img width="51%" align="center" src="https://github-readme-stats-vercel-26n4wrzbe-devalefe.vercel.app/api?username=devalefe&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&locale=pt-br" alt="Status GitHub de Álefe" />
 </a>
 
 <a href="https://github.com/devalefe/github-readme-stats-vercel">

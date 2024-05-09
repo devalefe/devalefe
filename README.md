@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 0px !important;">
-<img width="70%" src="assets/hi.png" alt="Olá, me chamo Álefe!" />
+<!-- <img width="70%" src="assets/hi.png" alt="Olá, me chamo Álefe!" /> -->
 </p>
 
 <a href="https://github.com/devalefe/github-readme-stats-vercel">

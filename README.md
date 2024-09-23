@@ -16,9 +16,9 @@
 
 - 🎯 Foco e determinação, é o que me descreve
 
-- 🧠 Aprofundando meus conhecimentos em Javascript & Python
+- 🧠 Aprofundando meus conhecimentos em Javascript & Go
 
-- ❤️ Apaixonado por tecnologia, em especial Desenvolvimento Web
+- ❤️ Apaixonado por Desenvolvimento Web & Mobile
 
 ## **Tecnologias do dia-a-dia**
 

@@ -12,7 +12,7 @@
 
 ## **Um pouco sobre mim**
 
-- 💼 Full Stack Developer @Infortel
+- 💼 Full Stack Developer
 
 - 🎯 Foco e determinação, é o que me descreve
 
